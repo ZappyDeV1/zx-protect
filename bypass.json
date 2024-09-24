@@ -1,0 +1,14 @@
+{
+    "bypass": [
+      {
+        "steam": "steam:110000117786530",
+        "license": "license:e69ffefbfd1a79af6f1dfedad5e3538467c71bd6",
+        "discord": "discord:1115986103988650035"
+      },
+      {
+        "steam": "test",
+        "license": "test",
+        "discord": "test"
+      }
+    ]
+  }
